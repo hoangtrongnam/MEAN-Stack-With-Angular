@@ -1,0 +1,23 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtrongnam/MEAN-Stack-With-Angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangtrongnam/MEAN-Stack-With-Angular/issues"
+  },
+  "homepage": "https://github.com/hoangtrongnam/MEAN-Stack-With-Angular#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
